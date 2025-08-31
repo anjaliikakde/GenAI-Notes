@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-openai
+openai
+langchain-anthropic
+langchain-google-genai
+google-generativeai
+langchain-huggingface
+transformers
+huggingface-hub
+python-dotenv
+cohere
+sentence-transformers
+streamlit
+grandalf  # to visualize chain
+requests 

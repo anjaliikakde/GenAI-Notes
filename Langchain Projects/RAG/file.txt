@@ -1,0 +1,8 @@
+This book is aimed at the data scientist with some familiarity with the R
+programming language, and with some prior (perhaps spotty or ephemeral)
+exposure to statistics. Both of us came to the world of data science from the world
+of statistics, so we have some appreciation of the contribution that statistics can
+make to the art of data science. At the same time, we are well aware of the
+limitations of traditional statistics instruction: statistics as a discipline is a century
+and a half old, and most statistics textbooks and courses are laden with the
+momentum and inertia of an ocean liner.
